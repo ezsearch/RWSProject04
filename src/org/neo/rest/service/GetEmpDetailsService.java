@@ -13,7 +13,7 @@ import javax.ws.rs.core.Response;
 import org.neo.rest.model.EmpDetails;
 import org.neo.rest.dao.GetEmpDetailsDAO;
 
-@Path("")
+@Path("/resource")
 
 public class GetEmpDetailsService {
 	@GET

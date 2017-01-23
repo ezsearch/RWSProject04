@@ -9,7 +9,7 @@ https://programmaticponderings.com/tag/jax-rs/
 http://tgrall.github.io/blog/2010/02/28/create-and-deploy-a-jax-rs-rest-service-on-google-app-engine/
 
 
-Read this for Jersy goo done:
+Read this for Jersy goo done: - This one is best
 http://www.vogella.com/tutorials/REST/article.html#firstjersey
 
 
