@@ -14,7 +14,6 @@ import org.neo.rest.service.GetEmpDetailsService;
 public class EmpBaseApplication extends Application {
 
 	public EmpBaseApplication(){
-		
 	}
 	
 	public Set<Class<?>> getClasses(){

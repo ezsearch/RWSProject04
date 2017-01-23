@@ -19,7 +19,8 @@ public class GetEmpDetailsService {
 	@GET
 	@Path("/getEmployee/{empcode}")
 	// @Produces("application/xml") //to return XML as response
-	@Produces("application/json") // to return JSON
+	//@Produces("application/json") // to return JSON
+	@Produces(MediaType.APPLICATION_JSON)
 	public EmpDetails getEmployee(@PathParam("empcode") String empcode) {
 
 		System.out.println("Inside service controller");
