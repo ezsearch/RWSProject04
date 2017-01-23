@@ -1,0 +1,40 @@
+
+http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
+
+http://www.vogella.com/tutorials/REST/article.html
+http://howtodoinjava.com/jersey/jersey-restful-client-examples/
+http://javaonlineguide.net/2015/07/java-jax-rs-restful-service-with-xmljson-response-using-application-subclass.html
+http://www.dineshonjava.com/2013/06/restful-web-services-with-jersey-jax-rs.html
+https://programmaticponderings.com/tag/jax-rs/
+http://tgrall.github.io/blog/2010/02/28/create-and-deploy-a-jax-rs-rest-service-on-google-app-engine/
+
+
+
+
+
+RESTEasy
+Jersey
+Retrofit
+Spark
+Dropwizard
+
+
+RESTFul Client Examples:
+
+    How to Create RESTful Java Client using Apache HttpClient – Example
+    How to Create RESTful Java Client With Java.Net.URL – Example
+    How to Create RESTful Java Client With Jersey Client – Example
+
+Another must read:
+
+    CrunchifyJSONtoHTML.js – JSON to HTML table Converter Script
+    How to Generate Out Of Memory (OOM) in Java Programatically
+    How to Run Multiple Tomcat Instances on One Server?
+    How to Read JSON Object From File in Java – Crunchify Tutorial
+
+    
+    http://howtodoinjava.com/security/restful-web-services-security-guide/
+    http://howtodoinjava.com/jersey/jersey-rest-security/
+    https://jersey.java.net/documentation/latest/security.html
+    http://docs.oracle.com/middleware/1212/wls/RESTF/secure-restful-service.htm#RESTF280
+    
